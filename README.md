@@ -1,3 +1,2 @@
-# freecodecampSolutions
-
-freecodecamp solutions for refernce
+# freecodecamp Solutions
+freecodecamp solutions for reference
